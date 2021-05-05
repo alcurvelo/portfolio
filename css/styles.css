@@ -6,7 +6,7 @@
 section{
     width: 100vw;
     height: 100vh;
-    background-image: url('/assets/img/fondo.jpg');
+    background-image: url('../assets/img/fondo.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: 0 70%;
@@ -73,11 +73,11 @@ section>div{
     transition: .35s linear; 
 }
 .facebook{
-    background-image: url(/assets/img/facebook.png);
+    background-image: url('../assets/img/facebook.png');
 }
 .github{
-    background-image: url(/assets/img/github.png);
+    background-image: url('../assets/img/github.png');
 }
 .linkedin{
-    background-image: url(/assets/img/linkedin.png);
+    background-image: url('../assets/img/linkedin.png');
 }
